@@ -7,7 +7,8 @@ Assuming your hardware includes a GPU with at least 2gb of memory these settings
 The file path to apply these files should be C:\ Users \ [user profile] \ local \ appdata \ insurgency \ saved \ config \ WindowsClient
 Copy and paste both of these files to this folder.
 
-The other files in this repository are presets that I've come to like. My current favorite is [revised.ini]
+The other files in this repository are presets that I've come to like. My current favorite is [new.ini]
+This is basically just a tonemapper to perfect the colors.
 Just download the latest ReShade, and follow the instructions to install all shaders available.
 Then, copy and paste the three .ini files into the root folder of Sandstorm.
 For me it's C:\\--\ steam \ steamapps \ common \ sandstorm
